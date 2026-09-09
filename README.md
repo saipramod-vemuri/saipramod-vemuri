@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer and enthusiastic problem-solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Computer+Science+Graduate+%40+GITAM+University;Frappe+Certified+Developer;Building+Full-Stack+Web+Apps;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=false&vCenter=true&width=650&height=30&lines=Computer+Science+Graduate+%40+GITAM+University;Frappe+Certified+Developer;Building+Full-Stack+Web+Apps;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 <p align="center">
